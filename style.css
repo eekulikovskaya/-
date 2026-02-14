@@ -1,0 +1,43 @@
+header {
+    background-color: #D81B1B;
+    color: white;
+    text-align: center;
+    padding: 7px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+main{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    background-color: #CA2929;
+    color: white;
+    padding: 7px;
+    font-family: sans-serif;
+}
+
+div img {
+    height: 80px;
+    width: 100px;
+    float: left;
+}
+
+footer div {
+    height: 80px;
+    width: 100px;
+    float: right;
+    display: inline-block
+}
+
+footer h3 {
+    height: 80px;
+    width: 500px;
+    text-align: left;
+    display: inline-block
+}
